@@ -6,6 +6,6 @@ int sum(int a,int b){
 }
 
 int main(){
-    int summation = sum(5,4);
+    int summation = sum(6,3);
     cout << summation << endl;
 }
